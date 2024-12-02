@@ -1,0 +1,34 @@
+Textbooks:
+Title: Poe
+Author: Poe
+Edition: 1
+ISBN: 123154
+Publish Date: 20.20.2030
+Circulation: 1
+Approved: Yes
+Approval Date: 10.20.2002
+Price: 20
+
+Title: POe1
+Author: 1241451
+Edition: 2
+ISBN: 123513
+Publish Date: 20.02.2020
+Circulation: 1
+Approved: Yes
+Approval Date: 20.20.1515
+Price: 20
+
+Distributors:
+Name: Poe
+Address: poepoe
+Phone: 0877784900
+
+Name: Poe2
+Address: Poe222
+Phone: 0877784901
+
+Name: Kek
+Address: kekeke
+Phone: 0877784903
+
